@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SopaDeLetras
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SopaDeLetras\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SopaDeLetras()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SopaDeLetras\r\n
+comment10.params=
+comment10.target=char[]\ getDiagonalPrincipal()
+comment10.text=\r\n\ \ \ \ debe\ ser\ cuadrada\ sopas\r\n
+comment2.params=palabras
+comment2.target=SopaDeLetras(java.lang.String)
+comment3.params=palabra\ fila
+comment3.target=void\ pasar(java.lang.String,\ char[])
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.lang.String\ toString2()
+comment6.params=
+comment6.target=boolean\ esCuadrada()
+comment7.params=
+comment7.target=boolean\ esDispersa()
+comment8.params=
+comment8.target=boolean\ esRectangular()
+comment9.params=palabra
+comment9.target=int\ getContar(java.lang.String)
+comment9.text=\r\n\ \ \ \ retorna\ cuantas\ veces\ esta\ la\ palabra\ en\ la\ matriz\r\n
+numComments=11
